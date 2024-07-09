@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achinmay05&show_icons=true&locale=en" alt="achinmay05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achinmay05&" alt="achinmay05" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
