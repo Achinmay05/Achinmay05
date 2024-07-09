@@ -32,4 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achinmay05&" alt="achinmay05" /></p>
 
 <h3 align="left">LeetCode Profile:</h3>
-![Leetcode Stats](https://leetcard.jacoblin.cool/Chinm4y)
+
+![LeetcodeStats](https://leetcard.jacoblin.cool/Chinm4y)
