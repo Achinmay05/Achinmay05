@@ -31,6 +31,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Achinmay05&theme=dark" alt="achinmay05" />
 </div>
 
-<h3 align="left">LeetCode Profile:</h3>
+<h3 align="left">LeetCode Profile :</h3>
 
 ![LeetcodeStats](https://leetcard.jacoblin.cool/Chinm4y)
