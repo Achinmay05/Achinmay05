@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achinmay05&label=Profile%20views&color=0e75b6&style=flat" alt="achinmay05" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Web Development**
 
