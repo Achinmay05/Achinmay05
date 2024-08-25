@@ -7,7 +7,7 @@
          height="45"
          width="45" /> I'm Chinmay Awasthi </h1>
          
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achinmay05&label=Profile%20views&color=0e75b6&style=flat" alt="achinmay05" /> </p>
