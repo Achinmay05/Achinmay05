@@ -18,7 +18,7 @@
 
 - 📫 reach me at : **chinmayawasthi05@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zgqotUv3JhRaqU5j89tvUzYHh55ajGyw/view?usp=drivesdk)
+- 📄 [My Resume](https://drive.google.com/file/d/1zgqotUv3JhRaqU5j89tvUzYHh55ajGyw/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
