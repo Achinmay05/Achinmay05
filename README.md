@@ -18,7 +18,7 @@
 
 - 📫 reach me at : **chinmayawasthi05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kG8xJhNiw3_mhAzaTOxxpE2I2bmttKEc/view?usp=drivesdk](https://drive.google.com/file/d/1kG8xJhNiw3_mhAzaTOxxpE2I2bmttKEc/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zgqotUv3JhRaqU5j89tvUzYHh55ajGyw/view?usp=drivesdk](https://drive.google.com/file/d/1kG8xJhNiw3_mhAzaTOxxpE2I2bmttKEc/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
