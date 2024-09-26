@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 reach me at : **chinmayawasthi05@gmail.com**
+- 📫 reach me at: **chinmayawasthi05@gmail.com**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1giG5erGEjTngq82udqGh8JDszItPjw8C/view?usp=drive_link)
 
