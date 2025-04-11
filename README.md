@@ -7,18 +7,20 @@
          height="45"
          width="45"/> I'm Chinmay </h1>
          
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achinmay05&label=Profile%20views&color=0e75b6&style=flat" alt="achinmay05"/> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 reach me at: **chinmayawasthi05@gmail.com**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1giG5erGEjTngq82udqGh8JDszItPjw8C/view?usp=drive_link)
+
+- 🔗 [My Portfolio](your-portfolio-link-here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
