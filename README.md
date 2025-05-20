@@ -18,7 +18,7 @@
 
 - 📫 reach me at: **chinmayawasthi05@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1giG5erGEjTngq82udqGh8JDszItPjw8C/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1NhhLrMPyYSBZdH1jWw0A465q7-mp0d8n/view?usp=drive_link)
 
 - 🔗 [My Portfolio](your-portfolio-link-here)
 
