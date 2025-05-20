@@ -20,7 +20,7 @@
 
 - 📄 [My Resume](https://drive.google.com/file/d/1NhhLrMPyYSBZdH1jWw0A465q7-mp0d8n/view?usp=drive_link)
 
-- 🔗 [My Portfolio](your-portfolio-link-here)
+- 🔗 [My Portfolio](https://effortless-figolla-2d70c3.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
