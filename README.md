@@ -37,5 +37,5 @@
 
 <h3 align="left">LeetCode Profile:</h3>
 <a href="https://leetcode.com/Chinm4y" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Chinm4y" alt="LeetcodeStats">
+  <img src="https://leetcard.jacoblin.cool/Chinm4y" alt="LeetcodeStatistics">
 </a>
